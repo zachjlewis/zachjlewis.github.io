@@ -6,7 +6,6 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 
 {% include base_path %}
 
