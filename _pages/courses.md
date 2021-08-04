@@ -20,4 +20,4 @@ Math Courses
 ======
 Calculus I, II, III • Linear Algebra • Differential Equations • Vector Analysis and Applications*
 
-*enrolled Fall 2022
+*enrolled Fall 2021
