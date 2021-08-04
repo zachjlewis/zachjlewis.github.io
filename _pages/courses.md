@@ -9,5 +9,3 @@ author_profile: true
 
 Physics Courses
 ======
-Introductory Physics 1 & 2 • Modern Physics 1 & 2 • Modern Physics Lab • Classical Mechanics • Computational Methods in Physics • Electricity and Magnetism • 
-Quantum Mechanics 1 & 2 • Electromagnetic Theory
