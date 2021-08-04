@@ -11,49 +11,39 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Physics and Astronomy, 2022 (Expected)
+  * Honors College, 3.932 GPA
+  * Dean's List all semesters
 
-Work experience
+Work Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Undergraduate Research with Rachel Bezanson (University of Pittsburgh, Pittsburgh, PA) (May 2019 - Present)
+  * Researched the chemical evolution of massive star-forming galaxies in the LEGA-C dataset from half the age of the universe to today, in collaboration with Brett Andrews and Rachel Bezanson. Paper in prep.
+  * Assisted other undergraduates in exploring the fundamental metallicity relation at z=0.8. 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Undergraduate Research with Tae Hong (University of Pittsburgh, Pittsburgh, PA) (Jan 2019 - April 2019)
+  * Worked with ROOT and C macros to analyze particle collisions in the ATLAS Detector at the Large Hadron Collider.
 
-Publications
+Education Assistant (expERIEnce Children's Museum, Erie, PA)
+* Created and performed demonstrations of scientific phenomena and principles, and led sciencebased camps for children aged 5-9. Also worked in customer service positions intermittently. 
+
+Awards
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+* Julia Thompson Award for Excellence in Undergraduate Writing. (Spring 2021)
+* Pennsylvania Space Grant Consortium Scholarship. (Spring 2021)
+* Pennsylvania Space Grant Consortium Scholarship. (Spring 2020)
+* Pennsylvania Space Grant Consortium Scholarship. (Fall 2020)
+* Pennsylvania Space Grant Consortium Scholarship. (Fall 2019)
+* Pennsylvania Space Grant Consortium Scholarship. (Spring 2019)
+* Pennsylvania Lincoln-Douglas Debate State Champion. (March 2018)
+
+Projects
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
+* Physics and Astronomy Department Equity and Inclusing Committee Member
+* Mentor to two underclassmen in Society of Physics Students
+
+References
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+Rachel Bezanson, Assistant Professor: rachel.bezanson AT pitt DOT edu
+Brett Andrews, Research Assistant Professor: andrewsb AT pitt DOT edu
+
