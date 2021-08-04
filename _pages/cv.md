@@ -24,8 +24,8 @@ Work Experience
 * Undergraduate Research with Tae Hong (University of Pittsburgh, Pittsburgh, PA) (Jan 2019 - April 2019)
   * Worked with ROOT and C macros to analyze particle collisions in the ATLAS Detector at the Large Hadron Collider.
 
-Education Assistant (expERIEnce Children's Museum, Erie, PA)
-* Created and performed demonstrations of scientific phenomena and principles, and led sciencebased camps for children aged 5-9. Also worked in customer service positions intermittently. 
+* Education Assistant (expERIEnce Children's Museum, Erie, PA)
+  * Created and performed demonstrations of scientific phenomena and principles, and led sciencebased camps for children aged 5-9. Also worked in customer service positions intermittently. 
 
 Awards
 ======
