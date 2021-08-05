@@ -55,3 +55,12 @@ Dog Days - Bonnie Marris, Buffalo Games, 1000 pieces
 ![IMG_2752](https://user-images.githubusercontent.com/43174828/128247258-a29318fe-74ac-4d1c-b115-f201a746645b.jpg)
 Taj Mahal - Eric Dowdle, Dowdle, 1000 pieces
 
+-
+
+![61282612475__D3347C2E-DD07-4AD0-A0AD-FE7D411B1E71](https://user-images.githubusercontent.com/43174828/128360740-ea8e65a5-83c6-4fc9-8795-11f53a05d115.jpg)
+The Periodic Table of the Elements, Eurographics, 1000 pieces
+
+-
+
+![IMG_1501](https://user-images.githubusercontent.com/43174828/128361106-3b34118d-28be-4faf-ac8a-25cf7c3c67de.jpg)
+Christmas Magic, Current, 500 pieces
