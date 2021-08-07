@@ -46,6 +46,6 @@ Projects
 
 References
 ======
-Rachel Bezanson, Assistant Professor: rachel.bezanson AT pitt DOT edu
-Brett Andrews, Research Assistant Professor: andrewsb AT pitt DOT edu
+* Rachel Bezanson, Assistant Professor: rachel.bezanson AT pitt DOT edu
+* Brett Andrews, Research Assistant Professor: andrewsb AT pitt DOT edu
 
