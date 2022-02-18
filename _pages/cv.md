@@ -39,7 +39,7 @@ Awards
 
 Projects
 ======
-* Physics and Astronomy Department Equity and Inclusing Committee Member
+* Physics and Astronomy Department Equity and Inclusion Committee Member
 * Mentor to two underclassmen in Society of Physics Students
 * Society of Physics Students Secretary, Pitt Chapter (2021-22)
 * WMP Business Manager (2021-22)
