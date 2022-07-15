@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in Physics and Astronomy, 2022 (Expected)
+* B.S. in Physics and Astronomy, 2022
   * Honors College, 3.932 GPA
   * Dean's List all semesters
 
@@ -29,6 +29,7 @@ Work Experience
 
 Awards
 ======
+* Halliday-Resnick Award for Excellence in Undergraduate Research (2022)
 * Julia Thompson Award for Excellence in Undergraduate Writing. (Spring 2021)
 * Pennsylvania Space Grant Consortium Scholarship. (Spring 2021)
 * Pennsylvania Space Grant Consortium Scholarship. (Spring 2020)
