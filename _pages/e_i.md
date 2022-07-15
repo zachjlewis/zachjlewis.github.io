@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 Statement
 ======
-Black Lives Matter. Stop Asian Hate. I'm dedicated to creating a space in physics for underrepresented minorities and thoseless privileged than me. 
+Black Lives Matter. Stop Asian Hate. As a white male in a space historically and currently dominated by the same, I have an obligation to be both informed and an activisit for change. I'm dedicated to creating a space in physics and astronomy for underrepresented minorities and those less privileged than me. 
 
 Equity and Inclusion Committee
 ======
