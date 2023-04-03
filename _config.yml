@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Zach Lewis"
   avatar           : "picture.png"
-  bio              : "Undergraduate at University of Pittsburgh"
-  location         : "Pittsburgh, PA"
+  bio              : "Graduate Student at the University of Wisconsin-Madison"
+  location         : "Madison, WI"
   employer         :
-  email            : zjl8@pitt.edu
+  email            : zjlewis@wisc.edu
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
