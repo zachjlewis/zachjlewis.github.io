@@ -2,6 +2,9 @@
 main:
   - title: "Research"
     url: /research/
+    
+  - title: "Publications"
+    url: /pubs/
 
   - title: "Talks"
     url: /talks/      
@@ -14,6 +17,3 @@ main:
     
   - title: "Hobbies"
     url: /hobbies/
-    
-  - title: "Publications"
-    url: /pubs/
