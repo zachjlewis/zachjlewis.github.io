@@ -14,3 +14,6 @@ main:
     
   - title: "Hobbies"
     url: /hobbies/
+    
+  - title: "Publications"
+    url: /pubs/
