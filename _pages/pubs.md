@@ -13,4 +13,4 @@ author_profile: true
 
 [**The Gas-Phase Mass--Metallicity Relation for Massive Galaxies at z∼0.7 with the LEGA-C Survey**](https://ui.adsabs.harvard.edu/abs/2023arXiv230412343L/abstract)
 
-* **Lewis, Zach J.; Andrews**, Brett H.; Bezanson, Rachel; Maseda, Michael; Bell, Eric F.; Davé, Romeel; D'Eugenio, Francesco; Franx, Marijn; Gallazzi, Anna; de Graaff, Anna; Kaushal, Yasha; Nersesian, Angelos; Newman, Jeffrey A.; van der Wel, Arjen; Wu, Po-Feng
+* **Lewis, Zach J.**; Andrews, Brett H.; Bezanson, Rachel; Maseda, Michael; Bell, Eric F.; Davé, Romeel; D'Eugenio, Francesco; Franx, Marijn; Gallazzi, Anna; de Graaff, Anna; Kaushal, Yasha; Nersesian, Angelos; Newman, Jeffrey A.; van der Wel, Arjen; Wu, Po-Feng
