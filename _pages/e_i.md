@@ -12,7 +12,7 @@ As a white male in a space historically and currently dominated by the same, I h
 
 Equity work can take many forms. Below I've divided resources (artificially) into three categories: ways to educate yourself, ways to give, and ways to act. 
 
-<font size="9"> Learn </font>
+<font size="11"> Learn </font>
 
 While learning about equity does not in and of itself create change, the first step towards making a difference is education. To that end, what follows are resources that I've found useful as I begin my journey in equity and inclusion. 
 
@@ -36,15 +36,13 @@ Credit to [Rachel McClure](https://www.astrachel.me/) for the consolidation of t
 * [Intersectionality Matters!](https://www.aapf.org/intersectionality-matters) hosted by Kimberlé Crenshaw and members of the African American Policy Forum
 * [abolition is for everybody](https://initiatejustice.org/podcast/) hosted by Initiate Justice
 
-<font size="9"> Give </font>
+<font size="11"> Give </font>
 
 There are multiple ways to give. Two of the most common include donating your money and your time.
 
 **Donate Money**
 
-I will match donations to the charities below up to $100 per month. Fill out [this Google form]() telling me which charity you've donated to and how much, and I'll follow up letting you know if your donation has been matched. If you don't hear from me, that means I've reached my maximum donation for the month--not a bad thing! Thank you for giving. _NB: I've sorted the charities into their primary aspiration, but have selected intersectional organizations when possible. The division is primarily so that, in a given month, if you've committed to giving to a certain cause, you're able to do that. Additionally, when possible, these organizations are local to Madison, WI._
-
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScc68816mijah8-ujKQjmsR0DMZ8SeWL0h6YlBXXAq399hvBg/viewform?embedded=true" width="640" height="1239" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+I will match donations to the charities below up to $100 per month. Fill out [this Google form](https://docs.google.com/forms/d/e/1FAIpQLScc68816mijah8-ujKQjmsR0DMZ8SeWL0h6YlBXXAq399hvBg/viewform?usp=sf_link) telling me which charity you've donated to and how much, and I'll follow up letting you know if your donation has been matched. If you don't hear from me, that means I've reached my maximum donation for the month--not a bad thing! Thank you for giving. _NB: I've sorted the charities into their primary aspiration, but have selected intersectional organizations when possible. The division is primarily so that, in a given month, if you've committed to giving to a certain cause, you're able to do that. Additionally, when possible, these organizations are local to Madison, WI._
 
 Anti-Racism Funds
 * [Urban Triage](https://urbantriage.org/about/mission-vision) is an organization that works to "foster, develop, and strengthen Black economic power, Black families’ self-sufficiency, community leadership, advocacy, and family success through transformative education, psychoeducation, community engagement, trauma response, healing, and cultural heritage."
@@ -68,7 +66,11 @@ Indigenous Rights Funds
 
 **Donate Time**
 
+I have found the [Second Harvest Food Bank of Southern Wisconsin](https://www.secondharvestmadison.org/volunteer/) to be a fantastic volunteer experience.
 
+<font size="11"> Act </font>
+
+One of the most effective ways to create change is to engage politically. The first step in this process is [registering to vote](https://myvote.wi.gov/en-us/Voter-Registration). The second is to write to your elected officials. [This website](https://myvote.wi.gov/en-us/My-Elected-Officials) will help you find who those officials are, and [this page](https://www.ywcamadison.org/what-were-doing/advocating-for-change/local-officials/) from YWCA Madison gives tips for how to effectively write to those people in several ways.  
 
 Previous Work (at Pitt)
 ======
