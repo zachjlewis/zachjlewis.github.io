@@ -68,7 +68,7 @@ Indigenous Rights Funds
 
 **Donate Time**
 
-I have found the [Second Harvest Food Bank of Southern Wisconsin](https://www.secondharvestmadison.org/volunteer/) to be a fantastic volunteer experience.
+I have found the [Second Harvest Food Bank of Southern Wisconsin](https://www.secondharvestmadison.org/volunteer/) to be a fantastic volunteer experience. If you're free on Saturday mornings, come say hi!
 
 Act
 ======
