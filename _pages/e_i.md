@@ -12,11 +12,12 @@ As a white male in a space historically and currently dominated by the same, I h
 
 Equity work can take many forms. Below I've divided resources (artificially) into three categories: ways to educate yourself, ways to give, and ways to act. 
 
-<font size="12"> Learn </font>
-======
+<font size="9"> Learn </font>
+
 While learning about equity does not in and of itself create change, the first step towards making a difference is education. To that end, what follows are resources that I've found useful as I begin my journey in equity and inclusion. 
 
 **Articles**
+
 Credit to [Rachel McClure](https://www.astrachel.me/) for the consolidation of the majority of these articles. 
 * [Land acknowledgments meant to honor Indigenous people too often do the opposite](https://theconversation.com/land-acknowledgments-meant-to-honor-indigenous-people-too-often-do-the-opposite-erasing-american-indians-and-sanitizing-history-instead-163787?fbclid=IwAR3J4sdXu6ZCNCxzTMqjE6BVnxiBRvsYdjUWUr9JQxb7R-qXAhuj6O43-s0)
 * [Anti-Black racism in academia and what you can do about it](https://www.nature.com/articles/s41578-021-00361-5)
@@ -32,10 +33,40 @@ Credit to [Rachel McClure](https://www.astrachel.me/) for the consolidation of t
 * _How to Be an Antiracist_ by Ibram X. Kendi
 
 **Podcasts**
-* [Intersectionality Matters](https://www.aapf.org/intersectionality-matters) hosted by Kimberlé Crenshaw and members of the African American Policy Forum
+* [Intersectionality Matters!](https://www.aapf.org/intersectionality-matters) hosted by Kimberlé Crenshaw and members of the African American Policy Forum
 * [abolition is for everybody](https://initiatejustice.org/podcast/) hosted by Initiate Justice
 
-<font size="12"> Give </font>
+<font size="9"> Give </font>
+
+There are multiple ways to give. Two of the most common include donating your money and your time.
+
+**Donate Money**
+
+I will match donations to the charities below up to $100 per month. Fill out [this Google form]() telling me which charity you've donated to and how much, and I'll follow up letting you know if your donation has been matched. If you don't hear from me, that means I've reached my maximum donation for the month--not a bad thing! Thank you for giving. _NB: I've sorted the charities into their primary aspiration, but have selected intersectional organizations when possible. The division is primarily so that, in a given month, if you've committed to giving to a certain cause, you're able to do that. Additionally, when possible, these organizations are local to Madison, WI._
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScc68816mijah8-ujKQjmsR0DMZ8SeWL0h6YlBXXAq399hvBg/viewform?embedded=true" width="640" height="1239" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+
+Anti-Racism Funds
+* [Urban Triage](https://urbantriage.org/about/mission-vision) is an organization that works to "foster, develop, and strengthen Black economic power, Black families’ self-sufficiency, community leadership, advocacy, and family success through transformative education, psychoeducation, community engagement, trauma response, healing, and cultural heritage."
+* [The Foundation for Black Women's Wellness](https://www.ffbww.org/donate) provides "education, advocacy, support, and powerful partnerships" for Black women. 
+
+Anti-Gender Discrimination Funds
+* [Black Girl's Movement](https://www.blackgirlsmovement.org/donate) provides STEM curricula donated to Black women and girls.
+* [Women's Medical Fund](https://wiabortionfund.org/) is an organization that provides abortions. 
+
+Anti-Queer Discrimination Funds
+* [Black Trans Advocacy Coalition Mission](https://blacktrans.org/donate/) provides healthcare, housing, and employment support for Black trans people. 
+* [LGBT Center of Southeast Wisconsin](https://lgbtsewi.org/donate/) works to create support groups and advocacy networks. 
+* [Fair Wisconsin](https://secure.actblue.com/donate/fair-wisconsin-pac-1) has a political action committee that fights for queer rights in courts. 
+
+Prison Abolition Funds
+* [Abolitionist Law Center](https://abolitionistlawcenter.org/donate/) is a law firm working to abolish mass incarceration.
+
+Indigenous Rights Funds
+* [Sogorea Te’ Land Trust](https://sogoreate-landtrust.org/donate-update-draft/) is a Bay-area based indigenous women-led organization that works to return stolen land to the tribes from which it was stolen. 
+* [Native American Rights Fund](https://narf.org/) is a legal organization providing representation to Indigenous tribes and people.
+
+**Donate Time**
 
 
 
