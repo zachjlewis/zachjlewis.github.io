@@ -12,7 +12,8 @@ As a white male in a space historically and currently dominated by the same, I h
 
 Equity work can take many forms. Below I've divided resources (artificially) into three categories: ways to educate yourself, ways to give, and ways to act. 
 
-<font size="8"> Learn </font>
+Learn
+======
 
 While learning about equity does not in and of itself create change, the first step towards making a difference is education. To that end, what follows are resources that I've found useful as I begin my journey in equity and inclusion. 
 
@@ -36,7 +37,8 @@ Credit to [Rachel McClure](https://www.astrachel.me/) for the consolidation of t
 * [Intersectionality Matters!](https://www.aapf.org/intersectionality-matters) hosted by Kimberlé Crenshaw and members of the African American Policy Forum
 * [abolition is for everybody](https://initiatejustice.org/podcast/) hosted by Initiate Justice
 
-<font size="8"> Give </font>
+Give
+======
 
 There are multiple ways to give. Two of the most common include donating your money and your time.
 
@@ -68,7 +70,8 @@ Indigenous Rights Funds
 
 I have found the [Second Harvest Food Bank of Southern Wisconsin](https://www.secondharvestmadison.org/volunteer/) to be a fantastic volunteer experience.
 
-<font size="8"> Act </font>
+Act
+======
 
 One of the most effective ways to create change is to engage politically. The first step in this process is [registering to vote](https://myvote.wi.gov/en-us/Voter-Registration). The second is to write to your elected officials. [This website](https://myvote.wi.gov/en-us/My-Elected-Officials) will help you find who those officials are, and [this page](https://www.ywcamadison.org/what-were-doing/advocating-for-change/local-officials/) from YWCA Madison gives tips for how to effectively write to those people in several ways.  
 
