@@ -68,7 +68,7 @@ Indigenous Rights Funds
 
 I have found the [Second Harvest Food Bank of Southern Wisconsin](https://www.secondharvestmadison.org/volunteer/) to be a fantastic volunteer experience.
 
-<font size="9"> Act </font>
+<font size="7"> Act </font>
 
 One of the most effective ways to create change is to engage politically. The first step in this process is [registering to vote](https://myvote.wi.gov/en-us/Voter-Registration). The second is to write to your elected officials. [This website](https://myvote.wi.gov/en-us/My-Elected-Officials) will help you find who those officials are, and [this page](https://www.ywcamadison.org/what-were-doing/advocating-for-change/local-officials/) from YWCA Madison gives tips for how to effectively write to those people in several ways.  
 
