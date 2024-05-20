@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a graduate student at the University of Wisconsin-Madison, currently working with [Michael Maseda](http://www.astro.wisc.edu/our-people/faculty/maseda-michael/). 
+I'm a National Science Foundation Graduate Research Fellow at the University of Wisconsin-Madison, currently working with [Michael Maseda](http://www.astro.wisc.edu/our-people/faculty/maseda-michael/). 
 
 Previously I was an undergraduate at the [University of Pittsburgh](https://www.physicsandastronomy.pitt.edu/) working with [Rachel Bezanson](https://rachelbezanson.github.io/) and [Brett Andrews](https://bretthandrews.github.io/) to investigate the mass-metallicity relation and its evolution at the intermediate redshift of z=0.8. 
 
