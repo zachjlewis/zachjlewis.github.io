@@ -6,7 +6,7 @@ author_profile: true
 ---
 {% include base_path %}
 
-Galaxies are not static entities; they change with time. The field of <b>galaxy evolution<\b> seeks to characterize and understand the physical basis of those changes. In my research, I use a quantity called the <b> gas-phase metallicity<\b>, or the abundance ratio of heavy elements like oxygen to light elements like hydrogen, that is sensitive to many of those changes. See below for some ways that I've used and am using metallicity to explore galaxy evolution.
+Galaxies are not static entities; they change with time. The field of <b>galaxy evolution</b> seeks to characterize and understand the physical basis of those changes. In my research, I use a quantity called the <b> gas-phase metallicity</b>, or the abundance ratio of heavy elements like oxygen to light elements like hydrogen, that is sensitive to many of those changes. See below for some ways that I've used and am using metallicity to explore galaxy evolution.
 
 LEGA-C Mass-Metallicity Relation
 ======
