@@ -8,9 +8,7 @@ redirect_from:
   - /outreach.html
 ---
 
-I'm a National Science Foundation Graduate Research Fellow at the University of Wisconsin-Madison, currently working with [Michael Maseda](http://www.astro.wisc.edu/our-people/faculty/maseda-michael/). 
+I run an outreach program in our department I've named ACCORD: the Astronomy Community Center OutReach Directive. In this two-pronged program, students at K12 community centers throughout Dane County visit the astronomy department on UW-Madison's campus to visit the planetarium and historic Washburn Observatory. Graduate students also travel to these community centers to perform highly-interactive, hands-on activities with the students in a relaxed environment that encourages questions and individual interactions. 
 
-Previously I was an undergraduate at the [University of Pittsburgh](https://www.physicsandastronomy.pitt.edu/) working with [Rachel Bezanson](https://rachelbezanson.github.io/) and [Brett Andrews](https://bretthandrews.github.io/) to investigate the mass-metallicity relation and its evolution at the intermediate redshift of z=0.8. 
 
-![IMG_7584](https://github.com/zachjlewis/zachjlewis.github.io/assets/43174828/f22ce955-146c-4205-8df2-0a541a2f9d82)
 
