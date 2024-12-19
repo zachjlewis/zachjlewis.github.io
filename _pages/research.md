@@ -12,7 +12,8 @@ I'm interested in how gas-phase metallicity changes in a galaxy population acros
 
 I also think about how what we measure when it comes to metallicity studies may not always represent the complete truth: what bias is introduced, say, by a given survey's selection function, or our ability to measure metallicity for only very strongly star-forming galaxies with bright emission lines? 
 
-**RUBIES**
+RUBIES
+======
 As a member of [Red Unknowns: Bright Infrared Extragalactic Survey](https://ui.adsabs.harvard.edu/abs/2024arXiv240905948D/abstract), I am characterizing the mass-metallicity relation at z~5, in one of the earliest populations of galaxies for which a comprehensive set of metallicities have been measured. 
 
 LEGA-C Mass-Metallicity Relation
