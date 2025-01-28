@@ -17,8 +17,6 @@ Learn
 
 While learning about equity does not in and of itself create change, the first step towards making a difference is education. To that end, what follows are resources that I've found useful as I begin my journey in equity and inclusion. 
 
-**Articles**
-
 Credit to [Rachel McClure](https://www.astrachel.me/) for the consolidation of the majority of these articles. 
 * [Land acknowledgments meant to honor Indigenous people too often do the opposite](https://theconversation.com/land-acknowledgments-meant-to-honor-indigenous-people-too-often-do-the-opposite-erasing-american-indians-and-sanitizing-history-instead-163787?fbclid=IwAR3J4sdXu6ZCNCxzTMqjE6BVnxiBRvsYdjUWUr9JQxb7R-qXAhuj6O43-s0)
 * [Anti-Black racism in academia and what you can do about it](https://www.nature.com/articles/s41578-021-00361-5)
@@ -30,53 +28,35 @@ Credit to [Rachel McClure](https://www.astrachel.me/) for the consolidation of t
 * [Astronomers May Not Like It but Astronomy and Colonialism Have a Shared History](https://thewire.in/the-sciences/thirty-meter-telescope-native-hawaiians-mauna-kea-astronomy-colonialism)
 * [How well-intentioned white male physicists maintain ignorance of inequity and justify inaction.](https://arxiv.org/pdf/2210.03522.pdf)
 
-**Books**
-* _How to Be an Antiracist_ by Ibram X. Kendi
+A couple of my favorite podcasts towards this end also include the following:
 
-**Podcasts**
 * [Intersectionality Matters!](https://www.aapf.org/intersectionality-matters) hosted by Kimberlé Crenshaw and members of the African American Policy Forum
 * [abolition is for everybody](https://initiatejustice.org/podcast/) hosted by Initiate Justice
 
 Give
 ======
 
-There are multiple ways to give. Two of the most common include donating your money and your time.
+There are multiple ways to give. One of the most common is to give the money you are able to to funds that align with your goals. I donate to the following funds regulary:
 
-**Donate Money**
+* [The Sentencing Project](https://www.sentencingproject.org/) is dedicated to prison reform and abolition.
 
-I will match donations to the charities below up to $100 per month. Fill out [this Google form](https://docs.google.com/forms/d/e/1FAIpQLScc68816mijah8-ujKQjmsR0DMZ8SeWL0h6YlBXXAq399hvBg/viewform?usp=sf_link) telling me which charity you've donated to and how much, and I'll follow up letting you know if your donation has been matched. If you don't hear from me, that means I've reached my maximum donation for the month--not a bad thing! Thank you for giving. _NB: I've sorted the charities into their primary aspiration, but have selected intersectional organizations when possible. The division is primarily so that, in a given month, if you've committed to giving to a certain cause, you're able to do that. Additionally, when possible, these organizations are local to Madison, WI._
+* The [Midwest Immigration Bond Fund](https://www.mibfc.org/) provides bond for people detained in ICE custody in the Midwest. 
+  
+* [Fair Wisconsin](https://secure.actblue.com/donate/fair-wisconsin-pac-1) is a political action committee that fights for queer rights in courts in the state of Wisconsin.
 
-Anti-Racism Funds
-* [Urban Triage](https://urbantriage.org/about/mission-vision) is an organization that works to "foster, develop, and strengthen Black economic power, Black families’ self-sufficiency, community leadership, advocacy, and family success through transformative education, psychoeducation, community engagement, trauma response, healing, and cultural heritage."
-* [The Foundation for Black Women's Wellness](https://www.ffbww.org/donate) provides "education, advocacy, support, and powerful partnerships" for Black women. 
-
-Anti-Gender Discrimination Funds
-* [Black Girl's Movement](https://www.blackgirlsmovement.org/donate) provides STEM curricula donated to Black women and girls.
-* [Women's Medical Fund](https://wiabortionfund.org/) is an organization that provides abortions. 
-
-Anti-Queer Discrimination Funds
-* [Black Trans Advocacy Coalition Mission](https://blacktrans.org/donate/) provides healthcare, housing, and employment support for Black trans people. 
-* [LGBT Center of Southeast Wisconsin](https://lgbtsewi.org/donate/) works to create support groups and advocacy networks. 
-* [Fair Wisconsin](https://secure.actblue.com/donate/fair-wisconsin-pac-1) has a political action committee that fights for queer rights in courts. 
-
-Prison Abolition Funds
-* [Abolitionist Law Center](https://abolitionistlawcenter.org/donate/) is a law firm working to abolish mass incarceration.
-
-Indigenous Rights Funds
-* [Sogorea Te’ Land Trust](https://sogoreate-landtrust.org/donate-update-draft/) is a Bay-area based indigenous women-led organization that works to return stolen land to the tribes from which it was stolen. 
-* [Native American Rights Fund](https://narf.org/) is a legal organization providing representation to Indigenous tribes and people.
-
-**Donate Time**
-
-I have found the [Second Harvest Food Bank of Southern Wisconsin](https://www.secondharvestmadison.org/volunteer/) to be a fantastic volunteer experience. If you're free on Saturday mornings, come say hi!
+* [Planned Parenthood of Wisconsin](https://www.plannedparenthood.org/planned-parenthood-wisconsin) provides access to abortion and other healthcare thoughout Wisconsin.
 
 Act
 ======
 
-One of the most effective ways to create change is to engage politically. The first step in this process is [registering to vote](https://myvote.wi.gov/en-us/Voter-Registration). The second is to write to your elected officials. [This website](https://myvote.wi.gov/en-us/My-Elected-Officials) will help you find who those officials are, and [this page](https://www.ywcamadison.org/what-were-doing/advocating-for-change/local-officials/) from YWCA Madison gives tips for how to effectively write to those people in several ways.  
+One of the most effective and direct ways to create change is to engage politically. The first step in this process is [registering to vote](https://myvote.wi.gov/en-us/Voter-Registration). The second is to write to your elected officials. [This website](https://myvote.wi.gov/en-us/My-Elected-Officials) will help you find who those officials are, and [this page](https://www.ywcamadison.org/what-were-doing/advocating-for-change/local-officials/) from YWCA Madison gives tips for how to effectively write to those people in several ways. 
+
+If you're interested, political canvassing is also a great way to immerse yourself in your community and talk to your neighbors about the issues you care about. Find out more about campaigning for the Wisconsin Democrats at [WisDems](https://www.mobilize.us/wisdems/).
 
 Current Work (at UW-Madison)
 ======
+I am currently the chair of the UW-Madison Astronomy Department Climate Committee as one of its graduate student representatives. This committee is informed of department equity needs via comprehensive surveys, and devises and enacts plans to responds to these needs. 
+
 I participated in an effort led by Melissa Morris and Miriam Marino to create a gender-neutral bathroom in the astronomy building at UW-Madison. This was ultimately successful!
 
 Previous Work (at Pitt)
